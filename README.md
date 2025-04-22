@@ -10,6 +10,37 @@ AI-Powered Summary: Use AI to generate a short, tailored professional summary ba
 Live Preview: See a live preview of your resume as you enter your details.
 
 Modular Design: React-based components for a clean and scalable structure.
+## 📁 Folder Structure
+smart-resume/
+
+├── public/
+
+│   └── index.html
+
+├── src/
+
+│   ├── components/
+
+│   │   ├── ResumeForm.jsx
+
+│   │   └── ResumePreview.jsx
+
+│   ├── utils/
+
+│   │   └── cohere.js
+
+│   ├── App.jsx
+
+│   ├── main.jsx
+
+│   └── index.css
+
+├── .env
+
+├── package.json
+
+└── vite.config.js
+
 
 **Tech Stack**
 
